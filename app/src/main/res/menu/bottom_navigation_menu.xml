@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home"
+        android:icon="@drawable/vector_home" />
+    <item
+        android:id="@+id/navigation_exercise"
+        android:title="Exercise"
+        android:icon="@drawable/navigation_exercise_icon_24" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:title="Quiz"
+        android:icon="@drawable/navigation_quiz_icon_24" />
+
+    <item
+        android:id="@+id/navigation_result"
+        android:title="Support"
+        android:icon="@drawable/navigation_result_icon_24" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:title="Setting"
+        android:icon="@drawable/navigation_setting_icon_24" />
+</menu>
